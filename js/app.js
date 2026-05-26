@@ -2559,4 +2559,5 @@ function showToast(msg,type){
 
 render();
 import { students } from "./students.js"
+import { addXP } from "./xp.js"
 </script>
