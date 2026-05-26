@@ -1,4 +1,4 @@
-<script>
+  <script>
 // ═══ DATA ═══════════════════════════════════════════════
 const CAT_LABELS={"comportamento":"🎭 Comportamento","sala":"📚 Sala de Aula","escola":"🏫 Dia a Dia","social":"🤝 Convivência"};
 const NEG_ACTIONS=[
@@ -2558,4 +2558,5 @@ function showToast(msg,type){
 }
 
 render();
+import { students } from "./students.js"
 </script>
